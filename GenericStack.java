@@ -1,10 +1,10 @@
 /**
  * Author: Michael Yun
- * Assignment: Assignment-1
+ * Assignment: Assignment-2
  * 
- * This program will utilize exception handling in order to return the value of
- * the user-given index of an array
- * filled with random numbers, or an error message if out of bounds.
+ * This program revises the GenericStack class and implements it
+ * using an array rather than an array list. It then uses random values in the 
+ * main method to test functionality.
  **/
 
 public class GenericStack<E> {

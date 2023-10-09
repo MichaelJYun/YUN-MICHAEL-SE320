@@ -2,11 +2,10 @@ import java.util.ArrayList;
 
 /**
  * Author: Michael Yun
- * Assignment: Assignment-1
+ * Assignment: Assignment-2
  * 
- * This program will utilize exception handling in order to return the value of
- * the user-given index of an array
- * filled with random numbers, or an error message if out of bounds.
+ * This program removes duplicates from a list and returns a new ArrayList.
+ * It also has a main method that tests to ensure correct results.
  **/
 
 public class Exercise19_03 {
