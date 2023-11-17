@@ -1,0 +1,3 @@
+Hello world! This is a test file.
+This file contains some words, and some words are repeated.
+Let's see how the program handles this.
