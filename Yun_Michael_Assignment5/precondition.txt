@@ -1,0 +1,5 @@
+
+Precondition:
+ - The list must not be null.
+ - Elements in the list must be comparable using equals().
+ - The list must support element removal operations.
